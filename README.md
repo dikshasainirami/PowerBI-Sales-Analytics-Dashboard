@@ -62,5 +62,4 @@ A clean star-schema design was implemented to maximize performance and cross-fil
 
 ## 👤 Author
 * **Name:** Diksha Jaykumar Rami
-* **LinkedIn:** [Your LinkedIn Profile URL](#)
-* **Portfolio:** [Your Portfolio URL/NovyPro](#)
+* **LinkedIn:** www.linkedin.com/in/diksha-saini-php-laravel-developer
