@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project delivers an interactive, end-to-end Power BI business intelligence solution that transforms raw, unformatted Excel data into actionable operational insights. Monitoring **$16M in revenue across 113M orders**, the dashboard enables executives to audit sales performance across supervisors, product lines, brand market shares, and geographical regions in real time.
 
-📊 **[Link to Live Interactive Dashboard (e.g., NovyPro/Power BI Service)](#)** *(Optional: Add link here)*
+📊 
 
 ---
 
